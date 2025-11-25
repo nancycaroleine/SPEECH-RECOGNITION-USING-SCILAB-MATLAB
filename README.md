@@ -75,7 +75,9 @@ legend(["Reference", "Test"]);
 
 disp("Waveforms plotted successfully. Close the graph window manually to finish.");
 ```
-## OUTPUT: 
+## OUTPUT:
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/86ef0b16-2376-44fd-a4b4-90214bf673ca" />
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6559d4ac-e424-4709-b8d8-d0a712f699cc" />
 
